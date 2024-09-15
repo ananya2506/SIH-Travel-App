@@ -40,6 +40,13 @@ body {
   font-family: "DM Sans", sans-serif;
 }
 
+.logo{
+  width: 100px;
+    height: auto;
+    border-radius: 8px;
+    opacity: 0.8;
+}
+
 a,
 button {
   cursor: pointer;
