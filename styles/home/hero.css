@@ -20,6 +20,12 @@ h1 + div {
   z-index: 100;
 }
 
+.logo{
+  width: 100px;
+    height: auto;
+    border-radius: 8px;
+    opacity: 0.8;
+}
 h1 + div > div {
   display: flex;
   align-items: center;
