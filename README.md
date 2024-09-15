@@ -1,4 +1,4 @@
-# Travelo
+# Voyage
 This is individual project called Roaming Routes project made by ByteSphere.
 [Voyage Website]
 
